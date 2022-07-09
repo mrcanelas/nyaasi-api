@@ -1,0 +1,9 @@
+/.idea
+**/node_modules
+**.env
+.now
+/scraper/manual/examples.js
+links.json
+/prisma
+migrate.js
+scraper/lib/repository2.js
